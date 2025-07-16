@@ -1,0 +1,7 @@
+{
+  "name": "tocatapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
